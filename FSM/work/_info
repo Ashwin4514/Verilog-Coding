@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/QuartusPrime/ModelSIM
+vAAC2M4P3_tb
+!s110 1697997928
+!i10b 1
+!s100 8P@k0_@0hfN;CF_dFa28J0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ie9mea[3]Q80C^0UiJBnk_2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z2 dE:/FALL2023/Verilog-Coding/FSM
+w1697996789
+8E:/FALL2023/Verilog-Coding/FSM/AAC2M4P3_tb.vp
+FE:/FALL2023/Verilog-Coding/FSM/AAC2M4P3_tb.vp
+!i122 2
+L0 65 52
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1697997928.000000
+!s107 E:/FALL2023/Verilog-Coding/FSM/AAC2M4P3_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/FALL2023/Verilog-Coding/FSM/AAC2M4P3_tb.vp|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@a@c2@m4@p3_tb
+vFSM
+!s110 1697998027
+!i10b 1
+!s100 @_oHKK@=V80lEzL6jE;8C2
+R0
+IOA;akXH86DXzH0kM`gbWJ2
+R1
+R2
+w1697998021
+8E:\FALL2023\Verilog-Coding\FSM\AAC2M4P3.v
+FE:\FALL2023\Verilog-Coding\FSM\AAC2M4P3.v
+!i122 3
+L0 1 46
+R3
+r1
+!s85 0
+31
+!s108 1697998027.000000
+!s107 E:\FALL2023\Verilog-Coding\FSM\AAC2M4P3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\FALL2023\Verilog-Coding\FSM\AAC2M4P3.v|
+!i113 1
+R4
+R5
+n@f@s@m

@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/QuartusPrime/ModelSIM
+vAAC2M4P1_tb
+!s110 1697991480
+!i10b 1
+!s100 X08nB14g:^5WcDGMI6fF72
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGX<1DTRKe0Z]fThKo^j:81
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z2 dE:/FALL2023/Verilog-Coding/Binary_Counter
+w1697990746
+8E:/FALL2023/Verilog-Coding/Binary_Counter/AAC2M4P1_tb.vp
+FE:/FALL2023/Verilog-Coding/Binary_Counter/AAC2M4P1_tb.vp
+!i122 1
+L0 65 59
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1697991480.000000
+!s107 E:/FALL2023/Verilog-Coding/Binary_Counter/AAC2M4P1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/FALL2023/Verilog-Coding/Binary_Counter/AAC2M4P1_tb.vp|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@a@c2@m4@p1_tb
+vLS161a
+!s110 1697991476
+!i10b 1
+!s100 bGgZDL_39B;jR72HCYBgf0
+R0
+Ig<J;4VcPhVzTXfk0`QNER3
+R1
+R2
+w1697991469
+8E:\FALL2023\Verilog-Coding\Binary_Counter\AAC2M4P1.v
+FE:\FALL2023\Verilog-Coding\Binary_Counter\AAC2M4P1.v
+!i122 0
+L0 1 26
+R3
+r1
+!s85 0
+31
+!s108 1697991476.000000
+!s107 E:\FALL2023\Verilog-Coding\Binary_Counter\AAC2M4P1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\FALL2023\Verilog-Coding\Binary_Counter\AAC2M4P1.v|
+!i113 1
+R4
+R5
+n@l@s161a

@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/FALL2023/Verilog-Coding/Correct_Errors/AAC2M3P3
+vAAC2M3P4_tb
+!s110 1697955528
+!i10b 1
+!s100 S@bD9]cTjH>c3TIcFZ=KR3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I``BGNM6Y[:G1SX32Bae>A0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z2 dE:/FALL2023/Verilog-Coding/Voting_Machine
+w1697952682
+8E:/FALL2023/Verilog-Coding/Voting_Machine/AAC2M3P4_tb.vp
+FE:/FALL2023/Verilog-Coding/Voting_Machine/AAC2M3P4_tb.vp
+!i122 1
+L0 61 54
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1697955528.000000
+!s107 E:/FALL2023/Verilog-Coding/Voting_Machine/AAC2M3P4_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/FALL2023/Verilog-Coding/Voting_Machine/AAC2M3P4_tb.vp|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@a@c2@m3@p4_tb
+vMajority
+!s110 1697955634
+!i10b 1
+!s100 `^5k;Me1@T]VblGY0bOFJ0
+R0
+I61cIKQHXB:]JKi^[aJV<I1
+R1
+R2
+w1697955601
+8E:\FALL2023\Verilog-Coding\Voting_Machine\AAC2M3P4.v
+FE:\FALL2023\Verilog-Coding\Voting_Machine\AAC2M3P4.v
+!i122 2
+L0 36 14
+R3
+r1
+!s85 0
+31
+!s108 1697955634.000000
+!s107 E:\FALL2023\Verilog-Coding\Voting_Machine\AAC2M3P4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\FALL2023\Verilog-Coding\Voting_Machine\AAC2M3P4.v|
+!i113 1
+R4
+R5
+n@majority

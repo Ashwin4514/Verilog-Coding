@@ -1,0 +1,8 @@
+E:/FALL2023/Verilog-Coding/FSM/AAC2M4P3_tb.vp {1 {vlog -work work -stats=none E:/FALL2023/Verilog-Coding/FSM/AAC2M4P3_tb.vp
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AAC2M4P3_tb
+
+Top level modules:
+	AAC2M4P3_tb
+
+} {} {}}
